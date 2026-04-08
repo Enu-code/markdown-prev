@@ -64,16 +64,6 @@ No data is sent to any server.
 
 ---
 
-## Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/berkinyilmaz/markdown-preview.git
-
-# Install dependencies
-cd markdown-preview
-npm install
-
-# Run locally
-npm run dev
-```
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code
